@@ -1,3 +1,5 @@
+##Benyamin Sagranichne, Emiliano Tejada, Matias Ojman y Maximiliano Nudelman
+
 from atleta import Atleta
 from entrenador import Entrenador
 from equipamiento import Equipamiento
